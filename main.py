@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # MinerLite - A client side miner controller. 
 # This will launch cgminer with a few delay seconds and 
 # retrieve the local data and post it into somewhere!
@@ -9,8 +11,13 @@
 import socket
 import json
 import sys
-from subprocess import call
+import subprocess
 import time
+import os
+
+
+path = "/home/ltcminer/mining/cgminer/cgminer"
+log_file = "/home/ltcminer/mining/minerlite.log"
 
 def linesplit(socket):
         buffer = socket.recv(4096)
@@ -29,7 +36,7 @@ def retrieve_cgminer_info(command, parameter):
         """retrieve status of devices from cgminer
         """
 
-        api_ip = '192.168.0.27'
+        api_ip = '127.0.0.1'
         api_port = 4028
 
         s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
@@ -43,21 +50,23 @@ def retrieve_cgminer_info(command, parameter):
         response = response.replace('\x00','')
         return_val = response
         response = json.loads(response)
-        print response
+        # print response
         s.close()
         return return_val
 
 def run_cgminer(path):
-        call([path, "--api-listen"])
+        subprocess.Popen([path, "--api-listen"])
 
 
 
-path = "~/mining/cgminer/cgminer"
 
 print "Starting cgminer in 2 seconds"
 time.sleep(2)
 print "Running cgminer ..."
 run_cgminer(path)
-time.sleep(5)
-print "Try to retrieve running status:"
-retrieve_cgminer_info("devs", None)
+time.sleep(15)
+with open(log_file, 'a') as logfile:
+        try: 
+                logfile.write( retrieve_cgminer_info("devs", None) )
+        except socket.error:
+                pass
