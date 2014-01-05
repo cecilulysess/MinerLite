@@ -1,0 +1,1139 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edgess",
+				"edges_size"
+			],
+			[
+				"ns",
+				"nodes_size"
+			],
+			[
+				"edge",
+				"edges"
+			],
+			[
+				"node_s",
+				"nodes_size"
+			],
+			[
+				"edge_",
+				"edge_idx_"
+			],
+			[
+				"edge_si",
+				"edges_size_"
+			],
+			[
+				"no_s",
+				"nodes_size_"
+			],
+			[
+				"node",
+				"node_idx_"
+			],
+			[
+				"par",
+				"parm_lst_node_"
+			],
+			[
+				"ASTSt",
+				"ASTStatementCompositeNode"
+			],
+			[
+				"pln",
+				"parm_list_node"
+			],
+			[
+				"sy",
+				"symbol_table_"
+			],
+			[
+				"sym",
+				"symbol_table"
+			],
+			[
+				"symt_",
+				"symbol_table_"
+			],
+			[
+				"AST",
+				"ASTCompositeNode"
+			],
+			[
+				"pra",
+				"parent_"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"l",
+				"v_l"
+			],
+			[
+				"Numt",
+				"NumberType"
+			],
+			[
+				"Operatio",
+				"OperationLess"
+			],
+			[
+				"samp",
+				"sampling_rate"
+			],
+			[
+				"path",
+				"path_pre"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"rapi",
+				"rapidresponse_visualization"
+			],
+			[
+				"disp",
+				"display_window"
+			],
+			[
+				"displ",
+				"displayed_data"
+			],
+			[
+				"eda",
+				"eda_line"
+			],
+			[
+				"wind",
+				"display_window"
+			],
+			[
+				"cu",
+				"current_start_time_date_format"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"dra",
+				"draw_eda_chart"
+			],
+			[
+				"dis",
+				"display_window"
+			],
+			[
+				"curr",
+				"current_time"
+			],
+			[
+				"temp",
+				"temperature_line"
+			],
+			[
+				"char",
+				"chart_width"
+			],
+			[
+				"tem",
+				"temperature_Axis"
+			],
+			[
+				"initi",
+				"initialize_data"
+			],
+			[
+				"figu",
+				"figuresContainer"
+			],
+			[
+				"end",
+				"current_end_time"
+			],
+			[
+				"curre",
+				"current_start_time"
+			],
+			[
+				"di",
+				"display_window"
+			],
+			[
+				"star",
+				"current_start_time"
+			],
+			[
+				"current",
+				"current_time"
+			],
+			[
+				"all",
+				"all_data"
+			],
+			[
+				"tag2",
+				"tag2draw"
+			],
+			[
+				"temper",
+				"temperature_Axis"
+			],
+			[
+				"subsam",
+				"subsample_array"
+			],
+			[
+				"subs",
+				"sub_size"
+			],
+			[
+				"startt",
+				"start_time"
+			],
+			[
+				"MEDI",
+				"MEDIA_URL"
+			],
+			[
+				"Str",
+				"STATIC_ROOT"
+			],
+			[
+				"click",
+				"clicked_loc"
+			],
+			[
+				"offset",
+				"offsetWidth"
+			],
+			[
+				"vc_p",
+				"vc_play_button"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"partid",
+				"part_id"
+			],
+			[
+				"part",
+				"participant"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"teapot",
+				"teapot_material"
+			],
+			[
+				"flow",
+				"flowerHeight"
+			],
+			[
+				"body",
+				"bodyMaterial"
+			],
+			[
+				"cyl",
+				"cylinderMaterial"
+			],
+			[
+				"spher",
+				"sphereMaterial"
+			],
+			[
+				"hori",
+				"horizontalStepDepth"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix",
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1603,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"sstsq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy	",
+				"Set Syntax: Python"
+			],
+			[
+				"ssC++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssc+",
+				"Set Syntax: C++"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"SSPY",
+				"Set Syntax: Python"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ss",
+				"Set Syntax: ESSL"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/julianwu/Programming/MinerLite/test.py",
+		"/Users/julianwu/Programming/MinerLite/Makefile",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/Closed/CPSC827/bak/projects/1/start/Makefile",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/Closed/CPSC827/working/projects/1/start/Makefile",
+		"/Users/julianwu/Dropbox/Research/RapidResponse/mergeworks/patch.0.1.diff",
+		"/Users/julianwu/Dropbox/Research/RapidResponse/mergeworks/animations_m.sql.txt",
+		"/Users/julianwu/Programming/Algo&DS/dijkstra.cpp",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC940/scribe3/mybibfile.bib",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/frame.cpp",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/4/astCalc/scan.l",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/4/astCalc/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/test/main.cpp",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/3/grammar/parse.output",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/output.txt",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/testsuite/faildumb.py",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/number.cpp",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/ast.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/scan.l",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/parse.output",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/2/2/submit/scan.l",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/2/2/submit/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/2/2/comma_sep_num/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/3/grammar/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/testsuite/testelse.py",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/number.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/test/test.py",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/ast.cpp",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/3/ansic/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/Makefile",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/ast.h.bak",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/5/piethon/parse.tab.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/4/astCalc/parse.tab.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/4/astCalc/ast.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/4/astCalc/Makefile",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/working/projects/2/2/submit/Makefile",
+		"/Users/julianwu/Projects/django/jude/jude/settings/number.h",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/bak/projects/1/start/scan.l",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/bak/projects/2/comma_sep_num/parse.y",
+		"/Users/julianwu/Dropbox/Courses&Works/Clemson/CPSC827/827.sublime-project",
+		"/Users/julian/Dropbox/Courses&Works/Clemson/CPSC827/MALLOY_827assets-2013/projects/1/start/main.cpp",
+		"/Volumes/Julian's 暗房/无尽的新作/2013/RoadTrip/Output/_IGP2978-Edit-1.JPG",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/rapidresponse_visualization/views.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/models.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/side_wide_static/css/static.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/eda_processing.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/rapidresponse_visualization/urls.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/templates/base.htm",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/media/process_eda.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/rapidresponse_visualization/settings.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/templates/full_screen_image_base.htm",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/js/eda_chart_generator.js",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/side_wide_static/css/main.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/css/video_controller.css",
+		"/Users/julian/projects/django/django_learn/home_app/static/main.css",
+		"/Users/julian/projects/django/django_learn/home_app/static/test.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/views.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/css/eda_chart.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/demo/testjs.js",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/js/eda_chart.js",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/templates/visualization.htm",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/demo/testjs.html",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/js/video_controller.js",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/fabfile.py",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/media/Experiments/001/777.csv",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/css/part_main.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/templates/homepage.htm",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/media/Experiments/001/777_proc.csv",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/demo/data.tsv",
+		"/Users/julian/Library/Application Support/Sublime Text 2/Packages/User/python3.sublime-build",
+		"/Users/julian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/julian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/julian/Dropbox/Courses&Works/Coursera/Startup Engineering/3rd/sub3.txt",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/init.sh",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/static/main.css",
+		"/Users/julian/Dropbox/Courses&Works/Coursera/Startup Engineering/3rd/index.html",
+		"/Users/julian/Dropbox/Productivities/Job Application/Resume&CV/Restart/Julian_resume_template.tex",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/video_controller.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/test.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/part_main.css",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/vjs.svg",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/static/demo/democharts.html",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/requirements.txt",
+		"/Users/julian/Programming/Research/rapidresponse_visualization/participants/admin.py",
+		"/Users/julian/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/sublime_proj",
+		"/Users/julian/Downloads/pybench.py",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/flower.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/robot_eg2.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/shadow_mapping.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/light_rotation_control.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/texture_square.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/gl_shows/demo.htm",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/sample_codes.js",
+		"/C/Users/Cecil/AppData/Roaming/Sublime Text 2/Packages/GL Shader Validator/GLShaderValidator.sublime-settings",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/gl_shows/anisotropy.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/anisotropic_shading.vert",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/anisotropic_shading.frag",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/vertshader_eg.vert",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/anisotropic_shading.glsl",
+		"/C/Users/Cecil/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/robot_eg.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/object3d_rotate_eg.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/drinking_bird3.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/drinking_bird2.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/triangelate_polygon.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/colortriangle.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/shading_ball.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/drinking_bird.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/generate_stairs.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/drawshape.js",
+		"/E/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/eg/1.js",
+		"/J/Download/xa/14.Adison/p206_1970@SexInSex.URL",
+		"/E/Dropbox/Courses&Works/@Clemson/CPSC 612 Eyetracking/experiment/Result/eliminated_first_fix/P01_01-FIXATION-DATA.csv",
+		"/E/Dropbox/Courses&Works/@Clemson/CPSC 612 Eyetracking/experiment/Result/eliminated_first_fix/P01_01-Event-Data.csv",
+		"/C/Users/Cecil/Downloads/ciedelphi/cie calc/unit1.pas",
+		"/E/Dropbox/Courses&Works/Clemson/HCC881/Proposal/Paper/note.tex",
+		"/E/Dropbox/Courses&Works/Clemson/RA/Literature/url.htm",
+		"/E/Programming/codebase/VECar2/VECar/Assets/Scripts/JavaScripts/CrashController.js",
+		"/J/Download/xa/14.Adison/dralex@草榴社区.url",
+		"/J/Download/xa/14.Adison/99BT工厂最新地址.mht",
+		"/C/Users/Cecil/Downloads/ciedelphi/cie calc/ciematrix.pas",
+		"/C/Users/Cecil/Downloads/ciedelphi/cie calc/ciecalc.dof",
+		"/G/612/CPSC612_Yanxiang_Wu_Exp/Results/process_fixation_data.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bobsbehavior",
+			"latin1_general_ci",
+			"yanxia",
+			"first_edge",
+			"5",
+			"make_ed",
+			"edges_",
+			"Edge",
+			"edge_idx_",
+			"E",
+			"ordinal",
+			"ast",
+			"comp",
+			"BINARY_HEAP_H",
+			"ASTStatementNode",
+			"   ",
+			"d",
+			"reducing",
+			"i\\b",
+			"i ",
+			"ASTIntegerNumberNode",
+			"const",
+			"ASTCompositeNode",
+			"GetNodeName\\(\\)",
+			"GetNodeName()",
+			"set_frame",
+			"start \\.",
+			"start .",
+			"go to state 2\\b",
+			"go to state 2 ",
+			"go to state 2",
+			"accept",
+			"string",
+			"std::string(",
+			"Number& EvalNode\\(\\)",
+			"Number& EvalNode()",
+			"EvalNode",
+			"string",
+			"const Number",
+			"const",
+			"const Number",
+			"virtual",
+			" \n",
+			"ASTCompositeNode",
+			"string",
+			"CR",
+			"    |",
+			"    ",
+			"pass",
+			"operator",
+			"const[ ]*\\{[\\n \\d\\w\\(\\)\\.\\=\\{\\}\\-\\>\\<\\\\,\\%\\*\\+\\;\\/]*\\}",
+			"const[ ]*\\{[\\n.]*",
+			"abs",
+			"Number &other) {",
+			">",
+			"v_l;",
+			"NumberType\\.",
+			"NumberType.",
+			"double",
+			"this->value",
+			"value",
+			"operator",
+			"ast.h",
+			"union",
+			"ast",
+			"AST",
+			"const;",
+			"virtual ",
+			"operator",
+			"virtual ",
+			"operator",
+			" = 0",
+			"const",
+			"stmt",
+			"base_dir",
+			"context_processors",
+			"code_dir",
+			"sampling_rate",
+			"sample_array",
+			"sample",
+			"media",
+			"media_url",
+			"media",
+			"upload",
+			"app",
+			"background",
+			"template",
+			"static",
+			"vc_slider",
+			"font-face",
+			"loop",
+			"log",
+			"current_start_time_date_format",
+			"eda_line",
+			"axis",
+			"239",
+			"parse",
+			"time_ax",
+			"x(",
+			"time_ax",
+			"self",
+			"play",
+			"time_ax",
+			"xaxis",
+			"eda_time_indicator",
+			"color",
+			"x.domain",
+			"self.x",
+			"this.x",
+			"set_disp",
+			"this",
+			"eda_line",
+			"eda_axis",
+			"e'da",
+			"color",
+			"this",
+			"set_display_window",
+			"video",
+			"control",
+			"video_con",
+			"nav_box",
+			"h4",
+			"hp_header",
+			"footer",
+			"h2",
+			"var data_sub = data.map(function(d){\n        var time =  d3.time.format(\"%H:%M:%S.%L\").parse(d.Time);\n        time.setMilliseconds(0);\n        return {\n          Time: time,\n          \"EDA(us)\":  d[\"EDA(us)\"],\n          Temperature: d.Temperature\n        }\n      });\n\n      data_sub = subsample_array(data_sub, sampling_rate);\n      data_sub = filter_time(data_sub, start_time, end_time);",
+			"svg_",
+			"line"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"GetNodeName() const ",
+			"Number EvalNode() const",
+			"Number EvalNode()",
+			"Number::operator",
+			"const;",
+			"Number &other) const {",
+			">=",
+			"",
+			"Number",
+			"const{\\n\\n}",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include<iostream>",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "minerlite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"5tests",
+				"projects/5/piethon/testsuite/testsimple.py"
+			],
+			[
+				"4sc",
+				"projects/4/astCalc/scan.l"
+			],
+			[
+				"5sca",
+				"projects/5/piethon/scan.l"
+			],
+			[
+				"5parou",
+				"projects/5/piethon/parse.output"
+			],
+			[
+				"pout",
+				"projects/3/grammar/parse.output"
+			],
+			[
+				"outp",
+				"projects/5/piethon/output.txt"
+			],
+			[
+				"5fram",
+				"projects/5/piethon/frame.cpp"
+			],
+			[
+				"5number",
+				"projects/5/piethon/number.cpp"
+			],
+			[
+				"4par",
+				"projects/4/astCalc/parse.y"
+			],
+			[
+				"5asth",
+				"projects/5/piethon/ast.h"
+			],
+			[
+				"5ast.cp",
+				"projects/5/piethon/ast.cpp"
+			],
+			[
+				"5scan",
+				"projects/5/piethon/scan.l"
+			],
+			[
+				"2parse",
+				"projects/2/2/submit/parse.y"
+			],
+			[
+				"2pr",
+				"projects/2/2/comma_sep_num/parse.y"
+			],
+			[
+				"5ast.h",
+				"projects/5/piethon/ast.h"
+			],
+			[
+				"5num",
+				"projects/5/piethon/number.h"
+			],
+			[
+				"numberp",
+				"projects/5/piethon/number.cpp"
+			],
+			[
+				"5ast",
+				"projects/5/piethon/ast.h"
+			],
+			[
+				"5scal",
+				"projects/5/piethon/scan.l"
+			],
+			[
+				"5outp",
+				"projects/5/piethon/parse.output"
+			],
+			[
+				"5outpu",
+				"projects/5/piethon/parse.output"
+			],
+			[
+				"3par",
+				"projects/3/grammar/parse.y"
+			],
+			[
+				"5ast.c",
+				"projects/5/piethon/ast.cpp"
+			],
+			[
+				"5make",
+				"projects/5/piethon/Makefile"
+			],
+			[
+				"4scan",
+				"projects/4/astCalc/scan.l"
+			],
+			[
+				"5parse.tab.h",
+				"projects/5/piethon/parse.tab.h"
+			],
+			[
+				"proj4par",
+				"projects/4/astCalc/parse.y"
+			],
+			[
+				"proj4make",
+				"projects/4/astCalc/Makefile"
+			],
+			[
+				"number",
+				"projects/5/piethon/number.cpp"
+			],
+			[
+				"project2make",
+				"projects/2/2/submit/Makefile"
+			],
+			[
+				"project5make",
+				"projects/5/piethon/Makefile"
+			],
+			[
+				"number.h",
+				"~/Projects/django/jude/jude/settings/number.h"
+			],
+			[
+				"project4par",
+				"projects/4/astCalc/parse.y"
+			],
+			[
+				"projectmakefile",
+				"projects/4/astCalc/Makefile"
+			],
+			[
+				"home",
+				"participants/templates/homepage.htm"
+			],
+			[
+				"vi",
+				"participants/templates/visualization.htm"
+			],
+			[
+				"mod",
+				"participants/models.py"
+			],
+			[
+				"mo",
+				"participants/models.py"
+			],
+			[
+				"set",
+				"rapidresponse_visualization/settings.py"
+			],
+			[
+				"view",
+				"rapidresponse_visualization/views.py"
+			],
+			[
+				"sh",
+				"templates/full_screen_image_base.htm"
+			],
+			[
+				"url",
+				"rapidresponse_visualization/urls.py"
+			],
+			[
+				"sett",
+				"rapidresponse_visualization/settings.py"
+			],
+			[
+				"edap",
+				"participants/eda_processing.py"
+			],
+			[
+				"mode",
+				"participants/models.py"
+			],
+			[
+				"visu",
+				"participants/templates/visualization.htm"
+			],
+			[
+				"base",
+				"participants/templates/base.htm"
+			],
+			[
+				"video",
+				"participants/static/js/video_controller.js"
+			],
+			[
+				"main",
+				"side_wide_static/css/main.css"
+			],
+			[
+				"setting",
+				"rapidresponse_visualization/settings.py"
+			],
+			[
+				"eda",
+				"participants/static/css/eda_chart.css"
+			],
+			[
+				"tsv",
+				"participants/static/demo/data.tsv"
+			],
+			[
+				"testjs",
+				"participants/static/demo/testjs.html"
+			],
+			[
+				"model",
+				"participants/models.py"
+			],
+			[
+				"",
+				"requirements.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/julian/Dropbox/Courses&Works/Udacity/CS291 Interactive 3D Graphics/webgl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
